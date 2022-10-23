@@ -1,2 +1,2 @@
-# os_prototype
+# OS prototype
 First prototype of Brique OS
